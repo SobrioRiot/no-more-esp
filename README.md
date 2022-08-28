@@ -26,13 +26,13 @@ no-more es una manera simple de evitar el dolor de cabeza de toda la tarea despu
     - establecer algunas variables de entorno
     - limpiar
 
-## Vamos a empezar. Abre la terminal de root y sigue estos comandos uno por uno;
+## Vamos a empezar. Abre la terminal de root y sigue estos comandos uno por uno
 
 cd /
 
 apt-get install git -y
 
-git clone https://github.com/NeverWonderLand/no-more.git
+git clone https://github.com/HowardlRoark/no-more.git
 
 cd no-more
 
