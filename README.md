@@ -1,6 +1,6 @@
 no-more es una manera simple de evitar el dolor de cabeza de toda la tarea después de la nueva instalación de kali, sino también para guiar a las personas menos experimentadas. 
 
-**NOTES** No existe ninguna manera de aprender a hackear sin invertir
+**NOTA** No existe ninguna manera de aprender a hackear sin invertir
 - tiempo
 - esfuerzo
 - organización
