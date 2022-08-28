@@ -1,6 +1,7 @@
 no-more es una manera simple de evitar el dolor de cabeza de toda la tarea después de la nueva instalación de kali, sino también para guiar a las personas menos experimentadas. 
 
-**NOTA** No existe ninguna manera de aprender a hackear sin invertir
+**NOTA**  No existe ninguna manera de aprender a hackear sin invertir
+
 - tiempo
 - esfuerzo
 - organización
@@ -52,7 +53,8 @@ Vea la lista de herramientas en los archivos "list_tools.txt".
 #
 
 ### Abre de nuevo el terminal de root y sigue estos comandos;
-cd /no-más
+
+cd /no-more
 
 chmod +x install_tools.sh
 
