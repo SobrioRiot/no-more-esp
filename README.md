@@ -26,7 +26,7 @@ no-more es una manera simple de evitar el dolor de cabeza de toda la tarea despu
     - establecer algunas variables de entorno
     - limpiar
 
-## Vamos a empezar. Abre la terminal de root y sigue estos comandos uno por uno
+## Vamos a empezar, abre tu terminal root y sigue estos comandos uno por uno
 
 cd /
 
@@ -52,7 +52,7 @@ Vea la lista de herramientas en los archivos "list_tools.txt".
 ------------------------------
 #
 
-### Abre de nuevo el terminal de root y sigue estos comandos;
+### Abre de nuevo el terminal de root y sigue estos comandos
 
 cd /no-more
 
@@ -61,7 +61,8 @@ chmod +x install_tools.sh
 ./install_tools.sh
 
 -------------------------------
-Eso es todo.
+Eso es todo ;) 
+¡Espero te sea de utilidad!
 
 
 
