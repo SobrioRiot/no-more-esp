@@ -32,7 +32,7 @@ cd /
 
 apt-get install git -y
 
-git clone https://github.com/HowardlRoark/no-more.git
+git clone https://github.com/SobrioRiot/no-more.git
 
 cd no-more
 
