@@ -44,7 +44,7 @@ EOF
 
 
 printf '\n-----------------------------------------------------\n'
-printf '\nCreando directorio en /root:\n'
+printf '\n Creando directorio en /root:\n'
 printf '\n - data (wordlist && dic\n'
 printf '\n - utilidades (gestión local)\n'
 printf '\n - herramientas (con subcategoría)\n'
@@ -73,7 +73,7 @@ wget https://gist.githubusercontent.com/mgeeky/8b7b1c8d9fe8be69978d774bddb6e382/
 printf '\n-------------Finalizado--------------\n\n'
 borrar
 printf '\n-----------------------------------------------------\n'
-printf '\nCreando directorio en /tools:\n'
+printf '\n Creando directorio en /tools:\n'
 printf '\n - bruteforce (Cracking)\n'
 printf '\n - drkfuz (Dork && Fuzz)\n'
 printf '\n - installer (Todo en uno para instalar otras herramientas)\n'
