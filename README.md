@@ -1,3 +1,5 @@
+[English](https://github.com/NeverWonderLand/no-more) | [Español](https://github.com/SobrioRiot/no-more-esp)
+
 no-more es una manera simple de evitar el dolor de cabeza de toda la tarea después de la nueva instalación de kali, sino también para guiar a las personas menos experimentadas. 
 
 **NOTA**  No existe ninguna manera de aprender a hackear sin invertir
